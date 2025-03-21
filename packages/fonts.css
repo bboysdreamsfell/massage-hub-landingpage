@@ -1,0 +1,10 @@
+/*********************************
+            IMPORT
+**********************************/
+@import url('https://fonts.googleapis.com/css2?family=Italiana&family=Quicksand:wght@300..700&display=swap');
+
+:root{
+    --default_font:"Quicksand", sans-serif;
+    --title_font:"Italiana", sans-serif;
+    --styled_font:;
+}
